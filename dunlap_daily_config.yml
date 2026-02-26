@@ -1,0 +1,8 @@
+title: Dunlap Daily
+description: Market notes and daily commentary
+author: Keith Dunlap
+url: https://KeithJDunlap.github.io
+baseurl: /dunlap-daily   # if using a project site; leave blank for user site
+
+plugins:
+  - jekyll-feed
